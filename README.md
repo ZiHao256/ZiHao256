@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: i ❤️ stitch
 
-- 📫 How to reach me: [gmail](ZiHao626@gmail.com) / [qqmail](2638779206@qq.com)
+- 📫 How to reach me: ZiHao626@gmail.com / 2638779206@qq.com
 
 - 😄 More about me: [My blog](https://zihao256.github.io/)
 
