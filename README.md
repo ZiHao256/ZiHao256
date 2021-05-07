@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-### I'm [Alex Ma]((https://zihao256.github.io/)
+### I'm [Alex Ma](https://zihao256.github.io/)
 <p align="center">
   <img src="https://github.com/JasonkayZK/jasonkayzk/blob/master/hello-world.gif" width="30%">
 </p>
