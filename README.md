@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ### I'm [Alex Ma](https://zihao256.github.io/)
 <p align="center">
-  <img src="https://github.com/JasonkayZK/jasonkayzk/blob/master/hello-world.gif" width="30%">
+  <img src="https://github.com/ZiHao256/ZiHao256/blob/main/source/hello-world.gif" width="30%">
 </p>
 - 🔭 I’m currently studying on Xidian University
 
