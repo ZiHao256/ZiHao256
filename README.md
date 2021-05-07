@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 
 
-<code-pre class="code-pre" id="pre-Did4i6"><code-line class="line-numbers-rows"></code-line>[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?ZiHao256=Cl0udG0d)](https://github.com/anuraghazra/github-readme-stats)</code-pre>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ZiHao256=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
