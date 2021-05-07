@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/ZiHao256/ZiHao256/blob/main/source/hello-world.gif" width="30%">
 </p>
+
 - 🔭 I’m currently studying on Xidian University
 
 - 🌱 I’m currently learning DDB(distributed database) with Warmchay, I want to be excellent like chay!!
