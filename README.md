@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 More about me: [My blog](https://zihao256.github.io/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiZiHao256anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![ZiHao's github stats](https://github-readme-stats.vercel.app/api?username=ZiHao256&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
