@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning DDB(distributed database) with Warmchay, I want to be excellent like chay!!
 
-- ⚡ Fun fact: i ❤️ stitch
+- ⚡ Fun fact: i ❤️ stitch/ LOL👊
 
 - 📫 How to reach me: ZiHao626@gmail.com / 2638779206@qq.com
 
