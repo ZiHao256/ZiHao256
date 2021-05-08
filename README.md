@@ -1,10 +1,9 @@
-### Hi there 👋
-
 <!--
 **ZiHao256/ZiHao256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-
+> love yourself
+### Hi there 👋
 ### I'm [Alex Ma](https://zihao256.github.io/)
 <p align="center">
   <img src="https://github.com/ZiHao256/ZiHao256/blob/main/source/hello-world.gif" width="30%">
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning DDB(distributed database) with Warmchay, I want to be excellent like chay!!
 
-- ⚡ Fun fact: i ❤️ stitch/ LOL👊
+- ❤️ Fun fact: stitch / LOL👊
 
 - 📫 How to reach me: ZiHao626@gmail.com / 2638779206@qq.com
 
