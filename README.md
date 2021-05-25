@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Xidian University
 
-- 🌱 I’m currently **lost** ~~learning DDB(distributed database) with Warmchay, I want to be excellent like chay!!~~
+- 🌱 I’m currently **lost**  ~~learning DDB(distributed database) with Warmchay, I want to be excellent like chay!!~~
 
-- ❤️ Fun fact: stitch / LOL👊
+- ❤️ Fun fact: stitch🐕 / LOL👊 / Photograph📷 / 🏃 
 
 - 📫 How to reach me: ZiHao626@gmail.com / 2638779206@qq.com
 
