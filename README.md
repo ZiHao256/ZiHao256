@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently **lost**  ~~learning DDB(distributed database) with Warmchay, I want to be excellent like chay!!~~
 
-- ❤️ Fun fact: stitch🐕 / LOL👊 / Photograph📷 / 🏃 
+- ❤️ Fun fact: stitch🐕 / LOL👊 / Photograph📷 / Run🏃 /
 
 - 📫 How to reach me: ZiHao626@gmail.com / 2638779206@qq.com
 
