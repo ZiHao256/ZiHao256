@@ -2,7 +2,7 @@
 **ZiHao256/ZiHao256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-> love yourself
+> 
 ### Hi there 👋
 ### I'm [Alex Ma](https://zihao256.github.io/)
 <p align="center">
