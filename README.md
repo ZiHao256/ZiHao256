@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 [![ZiHao's github stats](https://github-readme-stats.vercel.app/api?username=ZiHao256&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![zihao's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ZiHao256&show_icons=true&count_private=true&theme=gotham)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ZiHao256/count.svg" />
