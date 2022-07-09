@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 -->
 > 
 ### Hi there 👋
-### I'm [Alex Ma](https://zihao256.github.io/)
+### I'm [zihao](https://zihao256.github.io/)
 <p align="center">
   <img src="https://github.com/ZiHao256/ZiHao256/blob/main/source/hello-world.gif" width="30%">
 </p>
