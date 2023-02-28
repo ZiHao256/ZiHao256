@@ -25,12 +25,16 @@ I'm Zihao Ma, more about me
   
 </details>
 
+---
+
 ### Languages and Frameworks
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218292066-c36545bd-47ac-4838-8958-1399009c3cc8.png" alt="SQLite" title="SQLite"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/218291286-3d84ebcb-c266-454b-bce2-b2f4ac01886f.png" alt="Djongo" title="Djongo"></code>
+
+---
 
 ### Tools and Environments
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
@@ -41,7 +45,7 @@ I'm Zihao Ma, more about me
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
-
+---
 
 [![ZiHao's github stats](https://github-readme-stats.vercel.app/api?username=ZiHao256&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
