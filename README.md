@@ -21,7 +21,9 @@ I'm Zihao Ma, more about me
 
 - 📫 How to reach me: ZiHao626@gmail.com / 2638779206@qq.com / zh_ma@stu.xidian.edu.cn
 
-- 😄 [My blog](https://zihao256.github.io/)
+- [My blog](https://zihao256.github.io/)
+
+- [My Homepage](https://zihao256.github.io/ZiHao256.com/)
   
 </details>
 
