@@ -10,6 +10,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/ZiHao256/ZiHao256/blob/main/source/hello-world.gif" width="30%">
 </p>
 
+<!--
 <details>
 <summary>
 I'm Zihao Ma, more about me
@@ -57,3 +58,4 @@ I'm Zihao Ma, more about me
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ZiHao256/count.svg" />
 </p>
+-->
