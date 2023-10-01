@@ -5,10 +5,11 @@ Here are some ideas to get you started:
 > 
 
 > Why be afraid of the infinity of the truth, joy resides in every step of growth.
-
+<!--
 <p align="center">
   <img src="https://github.com/ZiHao256/ZiHao256/blob/main/source/hello-world.gif" width="30%">
 </p>
+-->
 
 <!--
 <details>
