@@ -14,6 +14,8 @@
 
 📮 Email: &emsp;&emsp;&emsp;[zihao626@gmail.com](mailto:zihao626@gmail.com)
 
+---
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -22,6 +24,11 @@
 #### 🌱 Check out my recent projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+#### 📜 Check out my recent blog posts
+{{range rss "https://zihao256.github.io/atom.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### ⭐ Check out my recent stars
@@ -37,9 +44,4 @@
 #### 🔨 Check out my recent pull requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 📜 Check out my recent blog posts
-{{range rss "https://zihao256.github.io/atom.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
