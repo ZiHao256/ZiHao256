@@ -17,6 +17,16 @@
 ---
 <details>
 <summary>
+📓 Check out what I'm currently learning
+</summary>
+- [ ] CMU15-445(2023FALL)
+  - [X] Project#0
+  - [X] Homework#1
+  - [X] Project#1
+</details>
+
+<details>
+<summary>
 📜 Check out my recent blog posts
 </summary>
 {{range rss "https://zihao256.github.io/atom.xml" 5}}
