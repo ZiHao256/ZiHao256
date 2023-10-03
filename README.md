@@ -13,3 +13,15 @@
 📄 CV: &emsp;&emsp;&emsp;&emsp;[Curriculum Vitae(Updating)](https://zihao256.github.io/ZiHao256.com/Awesome_CV.pdf)
 
 📮 Email: &emsp;&emsp;&emsp;[zihao626@gmail.com](mailto:zihao626@gmail.com)
+
+#### 👷 Check out what I'm currently working on
+
+#### 🌱 Check out my recent projects
+
+#### ⭐ Check out my recent stars
+
+#### 👯 Check out my recent followers
+
+#### 🔨 Check out my recent pull requests
+
+#### 📜 Check out my recent blog posts
