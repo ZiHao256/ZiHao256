@@ -6,10 +6,10 @@
 
 🏠 Homepage: [Homepage](https://zihao256.github.io/ZiHao256.com/)
 
-🖊️ Blog: &nbsp;[ZiHao's Blog](https://zihao256.github.io/)
+🖊️ Blog: &emsp;[ZiHao's Blog](https://zihao256.github.io/)
 
-👤 About: &nbsp;[About me](https://zihao256.github.io/about/)
+👤 About: &ensp;[About me](https://zihao256.github.io/about/)
 
-📄 CV: &ensp;[Curriculum Vitae(Updating)](https://zihao256.github.io/ZiHao256.com/Awesome_CV.pdf)
+📄 CV: &emsp;[Curriculum Vitae(Updating)](https://zihao256.github.io/ZiHao256.com/Awesome_CV.pdf)
 
-📮 Email: &nbsp;[zihao626@gmail.com](mailto:zihao626@gmail.com)
+📮 Email: &ensp;[zihao626@gmail.com](mailto:zihao626@gmail.com)
