@@ -17,29 +17,45 @@
 ---
 <details>
 <summary>
-#### 📜 Check out my recent blog posts
+📜 Check out my recent blog posts
 </summary>
 {{range rss "https://zihao256.github.io/atom.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 </details>
 
-#### 👷 Check out what I'm currently contributing to
+<details>
+<summary>
+👷 Check out what I'm currently contributing to
+</summary>
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
+</details>
 
-#### 🌱 Check out my recent projects
+<details>
+<summary>
+🌱 Check out my recent projects
+</summary>
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+</details>
 
-#### ⭐ Check out my recent stars
+<details>
+<summary>
+⭐ Check out my recent stars
+</summary>
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
+</details>
 
-#### 🔨 Check out my recent pull requests
+<details>
+<summary>
+🔨 Check out my recent pull requests
+</summary>
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+</details>
