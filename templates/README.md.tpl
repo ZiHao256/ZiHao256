@@ -15,11 +15,14 @@
 📮 Email : &emsp;&emsp;&emsp;[zihao626@gmail.com](mailto:zihao626@gmail.com)
 
 ---
-
+<details>
+<summary>
 #### 📜 Check out my recent blog posts
+</summary>
 {{range rss "https://zihao256.github.io/atom.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
+</details>
 
 #### 👷 Check out what I'm currently contributing to
 {{range recentContributions 5}}
