@@ -14,6 +14,8 @@
 
 📮 Email: &emsp;&emsp;&emsp;[zihao626@gmail.com](mailto:zihao626@gmail.com)
 
+---
+
 #### 👷 Check out what I'm currently working on
 
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (today)
@@ -29,6 +31,14 @@
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片
 - [ZiHao256/Code](https://github.com/ZiHao256/Code) - Rust exercises
 - [ZiHao256/draw-frontend](https://github.com/ZiHao256/draw-frontend) - 
+
+#### 📜 Check out my recent blog posts
+
+- [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (today)
+- [Project#0: C&#43;&#43; Primer](https://zihao256.github.io/p/6fa5e9a2.html) (2 days ago)
+- [Paper Reading: TECCD: A Tree Embedding Approach for Code Clone Detection](https://zihao256.github.io/p/42c77a0c.html) (4 months ago)
+- [Git](https://zihao256.github.io/p/69c3279c.html) (4 months ago)
+- [Overleaf](https://zihao256.github.io/p/26d71884.html) (4 months ago)
 
 #### ⭐ Check out my recent stars
 
@@ -48,11 +58,3 @@
 
 - [Fix the typo in the class TASK declaration in task.h: TASKS -&gt; TASK](https://github.com/yongwen/columbia/pull/3) on [yongwen/columbia](https://github.com/yongwen/columbia) (5 months ago)
 - [Login](https://github.com/ZiHao256/vue_travelbooking/pull/1) on [ZiHao256/vue_travelbooking](https://github.com/ZiHao256/vue_travelbooking) (2 years ago)
-
-#### 📜 Check out my recent blog posts
-
-- [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (today)
-- [Project#0: C&#43;&#43; Primer](https://zihao256.github.io/p/6fa5e9a2.html) (2 days ago)
-- [Paper Reading: TECCD: A Tree Embedding Approach for Code Clone Detection](https://zihao256.github.io/p/42c77a0c.html) (4 months ago)
-- [Git](https://zihao256.github.io/p/69c3279c.html) (4 months ago)
-- [Overleaf](https://zihao256.github.io/p/26d71884.html) (4 months ago)
