@@ -15,14 +15,17 @@
 📮 Email : &emsp;&emsp;&emsp;[zihao626@gmail.com](mailto:zihao626@gmail.com)
 
 ---
-
+<details>
+<summary>
 #### 📜 Check out my recent blog posts
+</summary>
 
 - [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (today)
 - [Project#0: C&#43;&#43; Primer](https://zihao256.github.io/p/6fa5e9a2.html) (2 days ago)
 - [Paper Reading: TECCD: A Tree Embedding Approach for Code Clone Detection](https://zihao256.github.io/p/42c77a0c.html) (4 months ago)
 - [Git](https://zihao256.github.io/p/69c3279c.html) (4 months ago)
 - [Overleaf](https://zihao256.github.io/p/26d71884.html) (4 months ago)
+</details>
 
 #### 👷 Check out what I'm currently contributing to
 
