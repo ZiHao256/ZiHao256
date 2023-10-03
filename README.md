@@ -10,6 +10,6 @@
 
 👤 About: &ensp;&emsp;&emsp;[About me](https://zihao256.github.io/about/)
 
-📄 CV: &emsp;&emsp;&emsp;[Curriculum Vitae(Updating)](https://zihao256.github.io/ZiHao256.com/Awesome_CV.pdf)
+📄 CV: &emsp;&emsp;&emsp;&emsp;[Curriculum Vitae(Updating)](https://zihao256.github.io/ZiHao256.com/Awesome_CV.pdf)
 
 📮 Email: &emsp;&emsp;&emsp;[zihao626@gmail.com](mailto:zihao626@gmail.com)
