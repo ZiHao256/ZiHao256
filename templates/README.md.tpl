@@ -4,19 +4,24 @@
 
 💻 Interested in DB
 
-🏠 Homepage: [Homepage](https://zihao256.github.io/ZiHao256.com/)
+🏠 Homepage : [Homepage](https://zihao256.github.io/ZiHao256.com/)
 
-🖊️ Blog: &emsp;&emsp;&emsp;[ZiHao's Blog](https://zihao256.github.io/)
+🖊️ Blog : &emsp;&emsp;&emsp;[ZiHao's Blog](https://zihao256.github.io/)
 
-👤 About: &ensp;&emsp;&emsp;[About me](https://zihao256.github.io/about/)
+👤 About : &ensp;&emsp;&emsp;[About me](https://zihao256.github.io/about/)
 
-📄 CV: &emsp;&emsp;&emsp;&emsp;[Curriculum Vitae(Updating)](https://zihao256.github.io/ZiHao256.com/Awesome_CV.pdf)
+📄 CV : &emsp;&emsp;&emsp;&emsp;[Curriculum Vitae(Updating)](https://zihao256.github.io/ZiHao256.com/Awesome_CV.pdf)
 
-📮 Email: &emsp;&emsp;&emsp;[zihao626@gmail.com](mailto:zihao626@gmail.com)
+📮 Email : &emsp;&emsp;&emsp;[zihao626@gmail.com](mailto:zihao626@gmail.com)
 
 ---
 
-#### 👷 Check out what I'm currently working on
+#### 📜 Check out my recent blog posts
+{{range rss "https://zihao256.github.io/atom.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+#### 👷 Check out what I'm currently contributing to
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
@@ -26,19 +31,9 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 📜 Check out my recent blog posts
-{{range rss "https://zihao256.github.io/atom.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 #### ⭐ Check out my recent stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
-#### 👯 Check out my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
 {{- end}}
 
 #### 🔨 Check out my recent pull requests
