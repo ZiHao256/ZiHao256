@@ -4,6 +4,8 @@
 
 💻 Interested in DB
 
+🏠 Homepage: [Homepage](https://zihao256.github.io/ZiHao256.com/)
+
 🖊️ Blog: [ZiHao's Blog](https://zihao256.github.io/)
 
 👤 About: [About me](https://zihao256.github.io/about/)
