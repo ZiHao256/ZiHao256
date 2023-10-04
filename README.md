@@ -45,8 +45,8 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 day ago)
-- [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (1 day ago)
+- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (today)
+- [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (today)
 - [ZiHao256/Project_TravelBooking](https://github.com/ZiHao256/Project_TravelBooking) -  (4 months ago)
 - [ZiHao256/BookManagementSystem](https://github.com/ZiHao256/BookManagementSystem) - XDU 3rd_term 程序设计实训 (4 months ago)
 - [ZiHao256/LabofCompiling](https://github.com/ZiHao256/LabofCompiling) - XDU lab (4 months ago)
