@@ -69,11 +69,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [ZiHao256/talent-plan-zihao](https://github.com/ZiHao256/talent-plan-zihao) - open source training courses about distributed database and distributed systems (today)
 - [greenplum-db/gporca](https://github.com/greenplum-db/gporca) - A modular query optimizer for big data (3 days ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 days ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (3 days ago)
 - [ZiHao256/bustub-private](https://github.com/ZiHao256/bustub-private) -  (3 weeks ago)
-- [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (3 weeks ago)
 </details>
 
 <details>
