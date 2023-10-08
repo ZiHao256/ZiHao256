@@ -69,11 +69,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests (today)
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (1 day ago)
 - [ZiHao256/talent-plan-zihao](https://github.com/ZiHao256/talent-plan-zihao) - open source training courses about distributed database and distributed systems (2 days ago)
 - [greenplum-db/gporca](https://github.com/greenplum-db/gporca) - A modular query optimizer for big data (5 days ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (5 days ago)
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (5 days ago)
 </details>
 
 <details>
