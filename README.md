@@ -45,8 +45,8 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (6 days ago)
-- [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (6 days ago)
+- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 week ago)
+- [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (1 week ago)
 - [ZiHao256/Project_TravelBooking](https://github.com/ZiHao256/Project_TravelBooking) -  (5 months ago)
 - [ZiHao256/BookManagementSystem](https://github.com/ZiHao256/BookManagementSystem) - XDU 3rd_term 程序设计实训 (5 months ago)
 - [ZiHao256/LabofCompiling](https://github.com/ZiHao256/LabofCompiling) - XDU lab (5 months ago)
@@ -69,9 +69,9 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests (2 days ago)
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (3 days ago)
-- [ZiHao256/talent-plan-zihao](https://github.com/ZiHao256/talent-plan-zihao) - open source training courses about distributed database and distributed systems (4 days ago)
+- [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests (3 days ago)
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (4 days ago)
+- [ZiHao256/talent-plan-zihao](https://github.com/ZiHao256/talent-plan-zihao) - open source training courses about distributed database and distributed systems (5 days ago)
 - [greenplum-db/gporca](https://github.com/greenplum-db/gporca) - A modular query optimizer for big data (1 week ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 </details>
