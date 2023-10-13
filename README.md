@@ -69,11 +69,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project (today)
 - [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests (5 days ago)
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (6 days ago)
 - [ZiHao256/talent-plan-zihao](https://github.com/ZiHao256/talent-plan-zihao) - open source training courses about distributed database and distributed systems (1 week ago)
 - [greenplum-db/gporca](https://github.com/greenplum-db/gporca) - A modular query optimizer for big data (1 week ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 </details>
 
 <details>
