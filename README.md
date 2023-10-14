@@ -45,7 +45,7 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (today)
+- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 day ago)
 - [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (1 week ago)
 - [ZiHao256/Project_TravelBooking](https://github.com/ZiHao256/Project_TravelBooking) -  (5 months ago)
 - [ZiHao256/BookManagementSystem](https://github.com/ZiHao256/BookManagementSystem) - XDU 3rd_term 程序设计实训 (5 months ago)
@@ -69,9 +69,9 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project (today)
-- [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests (5 days ago)
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (6 days ago)
+- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project (1 day ago)
+- [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests (6 days ago)
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (1 week ago)
 - [ZiHao256/talent-plan-zihao](https://github.com/ZiHao256/talent-plan-zihao) - open source training courses about distributed database and distributed systems (1 week ago)
 - [greenplum-db/gporca](https://github.com/greenplum-db/gporca) - A modular query optimizer for big data (1 week ago)
 </details>
