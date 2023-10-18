@@ -69,11 +69,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero. (today)
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project (5 days ago)
 - [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests (1 week ago)
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (1 week ago)
 - [ZiHao256/talent-plan-zihao](https://github.com/ZiHao256/talent-plan-zihao) - open source training courses about distributed database and distributed systems (1 week ago)
-- [greenplum-db/gporca](https://github.com/greenplum-db/gporca) - A modular query optimizer for big data (2 weeks ago)
 </details>
 
 <details>
