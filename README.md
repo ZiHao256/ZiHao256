@@ -34,7 +34,7 @@
 </summary>
 
 - [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (2 weeks ago)
-- [Project#0: C&#43;&#43; Primer](https://zihao256.github.io/p/6fa5e9a2.html) (2 weeks ago)
+- [Project#0: C&#43;&#43; Primer](https://zihao256.github.io/p/6fa5e9a2.html) (3 weeks ago)
 - [Paper Reading: TECCD: A Tree Embedding Approach for Code Clone Detection](https://zihao256.github.io/p/42c77a0c.html) (5 months ago)
 - [Git](https://zihao256.github.io/p/69c3279c.html) (5 months ago)
 - [Overleaf](https://zihao256.github.io/p/26d71884.html) (5 months ago)
@@ -69,9 +69,9 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero. (3 days ago)
+- [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero. (4 days ago)
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project (1 week ago)
-- [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests (1 week ago)
+- [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests (2 weeks ago)
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (2 weeks ago)
 - [ZiHao256/talent-plan-zihao](https://github.com/ZiHao256/talent-plan-zihao) - open source training courses about distributed database and distributed systems (2 weeks ago)
 </details>
