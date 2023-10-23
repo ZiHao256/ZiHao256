@@ -69,7 +69,7 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero. (4 days ago)
+- [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero. (5 days ago)
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project (1 week ago)
 - [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests (2 weeks ago)
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (2 weeks ago)
