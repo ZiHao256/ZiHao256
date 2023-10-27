@@ -25,6 +25,7 @@
   - [X] [Project#0: C++ Primer](https://zihao256.github.io/p/6fa5e9a2.html)
   - [X] Homework#1: SQL
   - [X] [Project#1: Buffer Pool Manager](https://zihao256.github.io/p/1c228cd6.html)
+  - [X] Homework#2: Storage & Indexes
 
 </details>
 
