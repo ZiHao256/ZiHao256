@@ -34,11 +34,11 @@
 📜 Check out my recent blog posts
 </summary>
 
+- [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (today)
 - [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (3 weeks ago)
 - [Project#0: C&#43;&#43; Primer](https://zihao256.github.io/p/6fa5e9a2.html) (4 weeks ago)
 - [Paper Reading: TECCD: A Tree Embedding Approach for Code Clone Detection](https://zihao256.github.io/p/42c77a0c.html) (5 months ago)
 - [Git](https://zihao256.github.io/p/69c3279c.html) (5 months ago)
-- [Overleaf](https://zihao256.github.io/p/26d71884.html) (5 months ago)
 </details>
 
 <details>
