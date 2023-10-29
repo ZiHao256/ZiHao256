@@ -70,11 +70,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (today)
+- [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享 (today)
+- [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) -  (today)
 - [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm (2 days ago)
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero. (1 week ago)
-- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project (2 weeks ago)
-- [rurban/smhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests (3 weeks ago)
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (3 weeks ago)
 </details>
 
 <details>
