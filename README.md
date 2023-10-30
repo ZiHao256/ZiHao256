@@ -26,7 +26,7 @@
   - [X] Homework#1: SQL
   - [X] [Project#1: Buffer Pool Manager](https://zihao256.github.io/p/1c228cd6.html)
   - [X] Homework#2: Storage & Indexes
-  - [ ] Project#2: 3/4 Tasks
+  - [X] Project#2: [Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html)
 
 </details>
 
@@ -35,11 +35,11 @@
 📜 Check out my recent blog posts
 </summary>
 
+- [Project#2 Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (today)
 - [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (1 day ago)
 - [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (3 weeks ago)
 - [Project#0: C&#43;&#43; Primer](https://zihao256.github.io/p/6fa5e9a2.html) (4 weeks ago)
 - [Paper Reading: TECCD: A Tree Embedding Approach for Code Clone Detection](https://zihao256.github.io/p/42c77a0c.html) (5 months ago)
-- [Git](https://zihao256.github.io/p/69c3279c.html) (5 months ago)
 </details>
 
 <details>
@@ -47,8 +47,8 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (2 weeks ago)
-- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (2 weeks ago)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (today)
+- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (today)
 - [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (3 weeks ago)
 - [ZiHao256/Project_TravelBooking](https://github.com/ZiHao256/Project_TravelBooking) -  (5 months ago)
 - [ZiHao256/BookManagementSystem](https://github.com/ZiHao256/BookManagementSystem) - XDU 3rd_term 程序设计实训 (5 months ago)
