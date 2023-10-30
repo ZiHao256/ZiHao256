@@ -34,7 +34,7 @@
 📜 Check out my recent blog posts
 </summary>
 
-- [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (today)
+- [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (1 day ago)
 - [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (3 weeks ago)
 - [Project#0: C&#43;&#43; Primer](https://zihao256.github.io/p/6fa5e9a2.html) (4 weeks ago)
 - [Paper Reading: TECCD: A Tree Embedding Approach for Code Clone Detection](https://zihao256.github.io/p/42c77a0c.html) (5 months ago)
@@ -70,10 +70,10 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (today)
-- [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享 (today)
-- [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) -  (today)
-- [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm (2 days ago)
+- [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (1 day ago)
+- [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享 (1 day ago)
+- [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) -  (1 day ago)
+- [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm (3 days ago)
 - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero. (1 week ago)
 </details>
 
