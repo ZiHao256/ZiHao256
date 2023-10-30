@@ -26,6 +26,7 @@
   - [X] Homework#1: SQL
   - [X] [Project#1: Buffer Pool Manager](https://zihao256.github.io/p/1c228cd6.html)
   - [X] Homework#2: Storage & Indexes
+  - [ ] 3/4 Tasks
 
 </details>
 
