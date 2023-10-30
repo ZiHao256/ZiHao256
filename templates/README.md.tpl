@@ -26,7 +26,7 @@
   - [X] Homework#1: SQL
   - [X] [Project#1: Buffer Pool Manager](https://zihao256.github.io/p/1c228cd6.html)
   - [X] Homework#2: Storage & Indexes
-  - [X] Project#2: [Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html)
+  - [X] [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html)
 
 </details>
 
