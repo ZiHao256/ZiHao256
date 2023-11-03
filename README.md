@@ -71,11 +71,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [note286/xduts](https://github.com/note286/xduts) - Xidian University TeX Suite 西安电子科技大学LaTeX套装 (today)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (2 days ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (2 days ago)
 - [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (5 days ago)
 - [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享 (5 days ago)
-- [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) -  (5 days ago)
 </details>
 
 <details>
