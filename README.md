@@ -71,11 +71,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language (today)
 - [note286/xduts](https://github.com/note286/xduts) - Xidian University TeX Suite 西安电子科技大学LaTeX套装 (5 days ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 week ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 week ago)
 - [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (1 week ago)
-- [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享 (1 week ago)
 </details>
 
 <details>
@@ -83,6 +83,7 @@
 🔨 Check out my recent pull requests
 </summary>
 
+- [Fix typo in Chapter 15 Section 05. ](https://github.com/rust-lang/book/pull/3772) on [rust-lang/book](https://github.com/rust-lang/book) (today)
 - [Fix the typo in the class TASK declaration in task.h: TASKS -&gt; TASK](https://github.com/yongwen/columbia/pull/3) on [yongwen/columbia](https://github.com/yongwen/columbia) (7 months ago)
 - [Login](https://github.com/ZiHao256/vue_travelbooking/pull/1) on [ZiHao256/vue_travelbooking](https://github.com/ZiHao256/vue_travelbooking) (2 years ago)
 </details>
