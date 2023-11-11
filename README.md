@@ -71,11 +71,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [studylessshape/online-forum](https://github.com/studylessshape/online-forum) -  (today)
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language (3 days ago)
 - [note286/xduts](https://github.com/note286/xduts) - Xidian University TeX Suite 西安电子科技大学LaTeX套装 (1 week ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 week ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 week ago)
-- [TsinghuaDatabaseGroup/AIDB](https://github.com/TsinghuaDatabaseGroup/AIDB) - ai4db and db4ai work (1 week ago)
 </details>
 
 <details>
