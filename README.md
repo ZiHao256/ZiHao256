@@ -35,11 +35,11 @@
 📜 Check out my recent blog posts
 </summary>
 
+- [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (today)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (2 weeks ago)
 - [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (2 weeks ago)
 - [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (1 month ago)
 - [Project#0: C&#43;&#43; Primer](https://zihao256.github.io/p/6fa5e9a2.html) (1 month ago)
-- [Paper Reading: TECCD: A Tree Embedding Approach for Code Clone Detection](https://zihao256.github.io/p/42c77a0c.html) (6 months ago)
 </details>
 
 <details>
@@ -71,11 +71,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage. (today)
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (today)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (today)
 - [studylessshape/online-forum](https://github.com/studylessshape/online-forum) -  (2 days ago)
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language (5 days ago)
-- [note286/xduts](https://github.com/note286/xduts) - Xidian University TeX Suite 西安电子科技大学LaTeX套装 (1 week ago)
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 week ago)
 </details>
 
 <details>
