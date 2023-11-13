@@ -71,11 +71,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (today)
 - [studylessshape/online-forum](https://github.com/studylessshape/online-forum) -  (2 days ago)
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language (5 days ago)
 - [note286/xduts](https://github.com/note286/xduts) - Xidian University TeX Suite 西安电子科技大学LaTeX套装 (1 week ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 week ago)
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 week ago)
 </details>
 
 <details>
