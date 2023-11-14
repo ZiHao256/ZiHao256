@@ -75,7 +75,7 @@
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (1 day ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (1 day ago)
 - [studylessshape/online-forum](https://github.com/studylessshape/online-forum) -  (3 days ago)
-- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language (6 days ago)
+- [note286/xduts](https://github.com/note286/xduts) - Xidian University TeX Suite 西安电子科技大学LaTeX套装 (1 week ago)
 </details>
 
 <details>
