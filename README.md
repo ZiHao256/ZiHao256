@@ -35,7 +35,7 @@
 📜 Check out my recent blog posts
 </summary>
 
-- [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (today)
+- [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (1 day ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (2 weeks ago)
 - [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (2 weeks ago)
 - [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (1 month ago)
@@ -47,8 +47,8 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (3 days ago)
-- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 week ago)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (4 days ago)
+- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (2 weeks ago)
 - [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (1 month ago)
 - [ZiHao256/Project_TravelBooking](https://github.com/ZiHao256/Project_TravelBooking) -  (6 months ago)
 - [ZiHao256/BookManagementSystem](https://github.com/ZiHao256/BookManagementSystem) - XDU 3rd_term 程序设计实训 (6 months ago)
@@ -71,11 +71,11 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage. (today)
-- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (today)
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (today)
-- [studylessshape/online-forum](https://github.com/studylessshape/online-forum) -  (2 days ago)
-- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language (5 days ago)
+- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage. (1 day ago)
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (1 day ago)
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (1 day ago)
+- [studylessshape/online-forum](https://github.com/studylessshape/online-forum) -  (3 days ago)
+- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language (6 days ago)
 </details>
 
 <details>
@@ -83,7 +83,7 @@
 🔨 Check out my recent pull requests
 </summary>
 
-- [Fix typo in Chapter 15 Section 05. ](https://github.com/rust-lang/book/pull/3772) on [rust-lang/book](https://github.com/rust-lang/book) (5 days ago)
+- [Fix typo in Chapter 15 Section 05. ](https://github.com/rust-lang/book/pull/3772) on [rust-lang/book](https://github.com/rust-lang/book) (6 days ago)
 - [Fix the typo in the class TASK declaration in task.h: TASKS -&gt; TASK](https://github.com/yongwen/columbia/pull/3) on [yongwen/columbia](https://github.com/yongwen/columbia) (7 months ago)
 - [Login](https://github.com/ZiHao256/vue_travelbooking/pull/1) on [ZiHao256/vue_travelbooking](https://github.com/ZiHao256/vue_travelbooking) (2 years ago)
 </details>
