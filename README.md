@@ -35,11 +35,11 @@
 📜 Check out my recent blog posts
 </summary>
 
+- [rustlings](https://zihao256.github.io/p/2acafc61.html) (today)
 - [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (2 weeks ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (4 weeks ago)
 - [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (1 month ago)
 - [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (1 month ago)
-- [Project#0: C&#43;&#43; Primer](https://zihao256.github.io/p/6fa5e9a2.html) (1 month ago)
 </details>
 
 <details>
@@ -47,9 +47,9 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 week ago)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (today)
+- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (today)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (1 week ago)
-- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (4 weeks ago)
 - [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (1 month ago)
 - [ZiHao256/Project_TravelBooking](https://github.com/ZiHao256/Project_TravelBooking) -  (6 months ago)
 </details>
