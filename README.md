@@ -35,7 +35,7 @@
 📜 Check out my recent blog posts
 </summary>
 
-- [rustlings](https://zihao256.github.io/p/2acafc61.html) (6 days ago)
+- [rustlings](https://zihao256.github.io/p/2acafc61.html) (1 week ago)
 - [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (3 weeks ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (1 month ago)
 - [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (1 month ago)
@@ -47,8 +47,8 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 day ago)
-- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (6 days ago)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (2 days ago)
+- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 week ago)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (2 weeks ago)
 - [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (2 months ago)
 - [ZiHao256/Project_TravelBooking](https://github.com/ZiHao256/Project_TravelBooking) -  (6 months ago)
@@ -71,7 +71,7 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications (1 day ago)
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications (2 days ago)
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage. (3 weeks ago)
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (3 weeks ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (3 weeks ago)
