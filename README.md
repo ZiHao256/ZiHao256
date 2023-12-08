@@ -71,11 +71,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (today)
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications (5 days ago)
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage. (3 weeks ago)
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (3 weeks ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (3 weeks ago)
-- [studylessshape/online-forum](https://github.com/studylessshape/online-forum) -  (3 weeks ago)
 </details>
 
 <details>
