@@ -36,7 +36,7 @@
 </summary>
 
 - [rustlings](https://zihao256.github.io/p/2acafc61.html) (2 weeks ago)
-- [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (4 weeks ago)
+- [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (1 month ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (1 month ago)
 - [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (1 month ago)
 - [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (2 months ago)
@@ -47,9 +47,9 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 day ago)
-- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 day ago)
-- [ZiHao256/P2P-Based_Document_Sharing_System](https://github.com/ZiHao256/P2P-Based_Document_Sharing_System) -  (4 days ago)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (2 days ago)
+- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (2 days ago)
+- [ZiHao256/P2P-Based_Document_Sharing_System](https://github.com/ZiHao256/P2P-Based_Document_Sharing_System) -  (5 days ago)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (3 weeks ago)
 - [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (2 months ago)
 </details>
@@ -71,11 +71,11 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (4 days ago)
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (5 days ago)
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications (1 week ago)
-- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage. (4 weeks ago)
-- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (4 weeks ago)
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (4 weeks ago)
+- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage. (1 month ago)
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. (1 month ago)
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (1 month ago)
 </details>
 
 <details>
