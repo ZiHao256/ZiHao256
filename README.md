@@ -35,7 +35,7 @@
 📜 Check out my recent blog posts
 </summary>
 
-- [rustlings](https://zihao256.github.io/p/2acafc61.html) (3 weeks ago)
+- [rustlings](https://zihao256.github.io/p/2acafc61.html) (4 weeks ago)
 - [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (1 month ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (1 month ago)
 - [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (1 month ago)
