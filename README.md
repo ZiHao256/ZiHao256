@@ -71,7 +71,7 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [MuiseDestiny/zotero-reference](https://github.com/MuiseDestiny/zotero-reference) - PDF references add-on for Zotero. (today)
+- [MuiseDestiny/zotero-reference](https://github.com/MuiseDestiny/zotero-reference) - PDF references add-on for Zotero. (1 day ago)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (1 week ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (1 week ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (2 weeks ago)
