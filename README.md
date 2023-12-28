@@ -35,10 +35,10 @@
 📜 Check out my recent blog posts
 </summary>
 
-- [rustlings](https://zihao256.github.io/p/2acafc61.html) (4 weeks ago)
+- [rustlings](https://zihao256.github.io/p/2acafc61.html) (1 month ago)
 - [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (1 month ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (1 month ago)
-- [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (1 month ago)
+- [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (2 months ago)
 - [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (2 months ago)
 </details>
 
@@ -71,10 +71,10 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [cmu-db/optd](https://github.com/cmu-db/optd) - CMU-DB&#39;s Cascades optimizer framework (today)
-- [MuiseDestiny/zotero-reference](https://github.com/MuiseDestiny/zotero-reference) - PDF references add-on for Zotero. (1 day ago)
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (1 week ago)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (1 week ago)
+- [cmu-db/optd](https://github.com/cmu-db/optd) - CMU-DB&#39;s Cascades optimizer framework (1 day ago)
+- [MuiseDestiny/zotero-reference](https://github.com/MuiseDestiny/zotero-reference) - PDF references add-on for Zotero. (2 days ago)
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (2 weeks ago)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (2 weeks ago)
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (2 weeks ago)
 </details>
 
