@@ -37,7 +37,7 @@
 
 - [rustlings](https://zihao256.github.io/p/2acafc61.html) (2 months ago)
 - [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (2 months ago)
-- [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (2 months ago)
+- [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (3 months ago)
 - [Extendible Hash Table](https://zihao256.github.io/p/76b71367.html) (3 months ago)
 - [Project#1: Buffer Pool](https://zihao256.github.io/p/1c228cd6.html) (3 months ago)
 </details>
