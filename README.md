@@ -73,7 +73,7 @@
 
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS. (1 month ago)
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error (1 month ago)
-- [cmu-db/optd](https://github.com/cmu-db/optd) - CMU-DB&#39;s Cascades optimizer framework (1 month ago)
+- [cmu-db/optd](https://github.com/cmu-db/optd) - CMU-DB&#39;s Cascades optimizer framework (2 months ago)
 - [MuiseDestiny/zotero-reference](https://github.com/MuiseDestiny/zotero-reference) - PDF references add-on for Zotero. (2 months ago)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (2 months ago)
 </details>
