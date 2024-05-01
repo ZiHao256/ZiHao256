@@ -47,11 +47,11 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (today)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 day ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (4 months ago)
 - [ZiHao256/P2P-Based_Document_Sharing_System](https://github.com/ZiHao256/P2P-Based_Document_Sharing_System) -  (4 months ago)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (5 months ago)
-- [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (6 months ago)
+- [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (7 months ago)
 </details>
 
 <details>
@@ -83,7 +83,7 @@
 🔨 Check out my recent pull requests
 </summary>
 
-- [Fix comment typo in nlj_as_hash_join.cpp](https://github.com/cmu-db/bustub/pull/714) on [cmu-db/bustub](https://github.com/cmu-db/bustub) (2 days ago)
+- [Fix comment typo in nlj_as_hash_join.cpp](https://github.com/cmu-db/bustub/pull/714) on [cmu-db/bustub](https://github.com/cmu-db/bustub) (3 days ago)
 - [Fix typo in Chapter 15 Section 05. ](https://github.com/rust-lang/book/pull/3772) on [rust-lang/book](https://github.com/rust-lang/book) (5 months ago)
 - [Fix the typo in the class TASK declaration in task.h: TASKS -&gt; TASK](https://github.com/yongwen/columbia/pull/3) on [yongwen/columbia](https://github.com/yongwen/columbia) (1 year ago)
 - [Login](https://github.com/ZiHao256/vue_travelbooking/pull/1) on [ZiHao256/vue_travelbooking](https://github.com/ZiHao256/vue_travelbooking) (2 years ago)
