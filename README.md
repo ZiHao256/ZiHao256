@@ -71,11 +71,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [balsa-project/balsa](https://github.com/balsa-project/balsa) - Balsa is a learned SQL query optimizer. It tailor optimizes your SQL queries to find the best execution plans for your hardware and engine. (today)
 - [greenplum-db/gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI. (3 weeks ago)
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (3 weeks ago)
 - [wzpan/BeamerStyleSlides](https://github.com/wzpan/BeamerStyleSlides) - 🌈Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。 (3 weeks ago)
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge. (1 month ago)
-- [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code (1 month ago)
 </details>
 
 <details>
