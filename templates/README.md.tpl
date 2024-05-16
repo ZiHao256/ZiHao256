@@ -20,13 +20,16 @@
 📓 Check out what I'm currently learning
 </summary>
 
-- [ ] CMU15-445(2023FALL)
+- [X] CMU15-445(2023FALL)
 
   - [X] [Project#0: C++ Primer](https://zihao256.github.io/p/6fa5e9a2.html)
   - [X] Homework#1: SQL
   - [X] [Project#1: Buffer Pool Manager](https://zihao256.github.io/p/1c228cd6.html)
   - [X] Homework#2: Storage & Indexes
   - [X] [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html)
+  - [X] [Project#3: Query Execution](https://zihao256.github.io/p/c186cbfd.html)
+  - [X] [Project#4: CONCURRENCY CONTROL](https://zihao256.github.io/p/10f62ef4.html)
+
 
 </details>
 
