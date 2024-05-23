@@ -38,8 +38,8 @@
 📜 Check out my recent blog posts
 </summary>
 
-- [PROJECT #4: CONCURRENCY CONTROL](https://zihao256.github.io/p/10f62ef4.html) (6 days ago)
-- [Project #3: Query Execution](https://zihao256.github.io/p/c186cbfd.html) (6 days ago)
+- [PROJECT #4: CONCURRENCY CONTROL](https://zihao256.github.io/p/10f62ef4.html) (1 week ago)
+- [Project #3: Query Execution](https://zihao256.github.io/p/c186cbfd.html) (1 week ago)
 - [rustlings](https://zihao256.github.io/p/2acafc61.html) (5 months ago)
 - [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (6 months ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (6 months ago)
@@ -50,8 +50,8 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (today)
-- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (6 days ago)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 day ago)
+- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 week ago)
 - [ZiHao256/P2P-Based_Document_Sharing_System](https://github.com/ZiHao256/P2P-Based_Document_Sharing_System) -  (5 months ago)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (6 months ago)
 - [ZiHao256/ZiHao256.com](https://github.com/ZiHao256/ZiHao256.com) - Alex Ma&#39;s Profile (7 months ago)
