@@ -40,7 +40,7 @@
 
 - [PROJECT #4: CONCURRENCY CONTROL](https://zihao256.github.io/p/10f62ef4.html) (1 week ago)
 - [Project #3: Query Execution](https://zihao256.github.io/p/c186cbfd.html) (1 week ago)
-- [rustlings](https://zihao256.github.io/p/2acafc61.html) (5 months ago)
+- [rustlings](https://zihao256.github.io/p/2acafc61.html) (6 months ago)
 - [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (6 months ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (6 months ago)
 </details>
@@ -50,7 +50,7 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (2 days ago)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (3 days ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 week ago)
 - [ZiHao256/P2P-Based_Document_Sharing_System](https://github.com/ZiHao256/P2P-Based_Document_Sharing_System) -  (5 months ago)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (6 months ago)
@@ -86,7 +86,7 @@
 🔨 Check out my recent pull requests
 </summary>
 
-- [Fix comment typo in nlj_as_hash_join.cpp](https://github.com/cmu-db/bustub/pull/714) on [cmu-db/bustub](https://github.com/cmu-db/bustub) (3 weeks ago)
+- [Fix comment typo in nlj_as_hash_join.cpp](https://github.com/cmu-db/bustub/pull/714) on [cmu-db/bustub](https://github.com/cmu-db/bustub) (4 weeks ago)
 - [Fix typo in Chapter 15 Section 05. ](https://github.com/rust-lang/book/pull/3772) on [rust-lang/book](https://github.com/rust-lang/book) (6 months ago)
 - [Fix the typo in the class TASK declaration in task.h: TASKS -&gt; TASK](https://github.com/yongwen/columbia/pull/3) on [yongwen/columbia](https://github.com/yongwen/columbia) (1 year ago)
 - [Login](https://github.com/ZiHao256/vue_travelbooking/pull/1) on [ZiHao256/vue_travelbooking](https://github.com/ZiHao256/vue_travelbooking) (2 years ago)
