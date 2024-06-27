@@ -74,7 +74,7 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [yplusone/ParamTree](https://github.com/yplusone/ParamTree) - The core code for ParamTree, introduced in paper &#34;Rethinking Learned Cost Models: Why Start from Scratch?&#34; (5 days ago)
+- [yplusone/ParamTree](https://github.com/yplusone/ParamTree) - The core code for ParamTree, introduced in paper &#34;Rethinking Learned Cost Models: Why Start from Scratch?&#34; (6 days ago)
 - [learnedsystems/BaoForPostgreSQL](https://github.com/learnedsystems/BaoForPostgreSQL) - A prototype implementation of Bao for PostgreSQL (1 month ago)
 - [balsa-project/balsa](https://github.com/balsa-project/balsa) - Balsa is a learned SQL query optimizer. It tailor optimizes your SQL queries to find the best execution plans for your hardware and engine. (1 month ago)
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (2 months ago)
@@ -86,7 +86,7 @@
 🔨 Check out my recent pull requests
 </summary>
 
-- [Fix comment typo in nlj_as_hash_join.cpp](https://github.com/cmu-db/bustub/pull/714) on [cmu-db/bustub](https://github.com/cmu-db/bustub) (1 month ago)
+- [Fix comment typo in nlj_as_hash_join.cpp](https://github.com/cmu-db/bustub/pull/714) on [cmu-db/bustub](https://github.com/cmu-db/bustub) (2 months ago)
 - [Fix typo in Chapter 15 Section 05. ](https://github.com/rust-lang/book/pull/3772) on [rust-lang/book](https://github.com/rust-lang/book) (7 months ago)
 - [Fix the typo in the class TASK declaration in task.h: TASKS -&gt; TASK](https://github.com/yongwen/columbia/pull/3) on [yongwen/columbia](https://github.com/yongwen/columbia) (1 year ago)
 - [Login](https://github.com/ZiHao256/vue_travelbooking/pull/1) on [ZiHao256/vue_travelbooking](https://github.com/ZiHao256/vue_travelbooking) (2 years ago)
