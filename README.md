@@ -74,11 +74,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (today)
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (today)
+- [TonyCrane/PracticalSkillsTutorial](https://github.com/TonyCrane/PracticalSkillsTutorial) - 浙江大学系列朋辈辅学「实用技能拾遗」课程资料仓库 (today)
 - [yplusone/ParamTree](https://github.com/yplusone/ParamTree) - The core code for ParamTree, introduced in paper &#34;Rethinking Learned Cost Models: Why Start from Scratch?&#34; (1 week ago)
 - [learnedsystems/BaoForPostgreSQL](https://github.com/learnedsystems/BaoForPostgreSQL) - A prototype implementation of Bao for PostgreSQL (1 month ago)
-- [balsa-project/balsa](https://github.com/balsa-project/balsa) - Balsa is a learned SQL query optimizer. It tailor optimizes your SQL queries to find the best execution plans for your hardware and engine. (1 month ago)
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (2 months ago)
-- [wzpan/BeamerStyleSlides](https://github.com/wzpan/BeamerStyleSlides) - 🌈Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。 (2 months ago)
 </details>
 
 <details>
