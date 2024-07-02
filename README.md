@@ -74,11 +74,11 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (today)
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (today)
-- [TonyCrane/PracticalSkillsTutorial](https://github.com/TonyCrane/PracticalSkillsTutorial) - 浙江大学系列朋辈辅学「实用技能拾遗」课程资料仓库 (today)
+- [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (1 day ago)
+- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (1 day ago)
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (1 day ago)
+- [TonyCrane/PracticalSkillsTutorial](https://github.com/TonyCrane/PracticalSkillsTutorial) - 浙江大学系列朋辈辅学「实用技能拾遗」课程资料仓库 (1 day ago)
 - [yplusone/ParamTree](https://github.com/yplusone/ParamTree) - The core code for ParamTree, introduced in paper &#34;Rethinking Learned Cost Models: Why Start from Scratch?&#34; (1 week ago)
-- [learnedsystems/BaoForPostgreSQL](https://github.com/learnedsystems/BaoForPostgreSQL) - A prototype implementation of Bao for PostgreSQL (1 month ago)
 </details>
 
 <details>
