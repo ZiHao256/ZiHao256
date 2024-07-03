@@ -51,7 +51,7 @@
 </summary>
 
 - [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) -  (2 weeks ago)
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (3 weeks ago)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (4 weeks ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 month ago)
 - [ZiHao256/P2P-Based_Document_Sharing_System](https://github.com/ZiHao256/P2P-Based_Document_Sharing_System) -  (6 months ago)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (7 months ago)
@@ -74,10 +74,10 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (1 day ago)
-- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (1 day ago)
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (1 day ago)
-- [TonyCrane/PracticalSkillsTutorial](https://github.com/TonyCrane/PracticalSkillsTutorial) - 浙江大学系列朋辈辅学「实用技能拾遗」课程资料仓库 (1 day ago)
+- [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (2 days ago)
+- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (2 days ago)
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (2 days ago)
+- [TonyCrane/PracticalSkillsTutorial](https://github.com/TonyCrane/PracticalSkillsTutorial) - 浙江大学系列朋辈辅学「实用技能拾遗」课程资料仓库 (2 days ago)
 - [yplusone/ParamTree](https://github.com/yplusone/ParamTree) - The core code for ParamTree, introduced in paper &#34;Rethinking Learned Cost Models: Why Start from Scratch?&#34; (1 week ago)
 </details>
 
