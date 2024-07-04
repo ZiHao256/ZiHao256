@@ -74,11 +74,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [ZiHao256/awesome-database-learning-zihao](https://github.com/ZiHao256/awesome-database-learning-zihao) - A list of learning materials to understand databases internals (today)
 - [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (3 days ago)
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (3 days ago)
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (3 days ago)
 - [TonyCrane/PracticalSkillsTutorial](https://github.com/TonyCrane/PracticalSkillsTutorial) - 浙江大学系列朋辈辅学「实用技能拾遗」课程资料仓库 (3 days ago)
-- [yplusone/ParamTree](https://github.com/yplusone/ParamTree) - The core code for ParamTree, introduced in paper &#34;Rethinking Learned Cost Models: Why Start from Scratch?&#34; (1 week ago)
 </details>
 
 <details>
