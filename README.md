@@ -74,10 +74,10 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (2 days ago)
-- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (2 days ago)
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (2 days ago)
-- [TonyCrane/PracticalSkillsTutorial](https://github.com/TonyCrane/PracticalSkillsTutorial) - 浙江大学系列朋辈辅学「实用技能拾遗」课程资料仓库 (2 days ago)
+- [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (3 days ago)
+- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (3 days ago)
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (3 days ago)
+- [TonyCrane/PracticalSkillsTutorial](https://github.com/TonyCrane/PracticalSkillsTutorial) - 浙江大学系列朋辈辅学「实用技能拾遗」课程资料仓库 (3 days ago)
 - [yplusone/ParamTree](https://github.com/yplusone/ParamTree) - The core code for ParamTree, introduced in paper &#34;Rethinking Learned Cost Models: Why Start from Scratch?&#34; (1 week ago)
 </details>
 
