@@ -74,11 +74,11 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [ZiHao256/AppFlowy](https://github.com/ZiHao256/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (today)
-- [ZiHao256/awesome-database-learning-zihao](https://github.com/ZiHao256/awesome-database-learning-zihao) - A list of learning materials to understand databases internals (1 day ago)
-- [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (4 days ago)
-- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (4 days ago)
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (4 days ago)
+- [ZiHao256/AppFlowy](https://github.com/ZiHao256/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (1 day ago)
+- [ZiHao256/awesome-database-learning-zihao](https://github.com/ZiHao256/awesome-database-learning-zihao) - A list of learning materials to understand databases internals (2 days ago)
+- [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (5 days ago)
+- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (5 days ago)
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (5 days ago)
 </details>
 
 <details>
