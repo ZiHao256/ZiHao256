@@ -50,7 +50,7 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) -  (2 weeks ago)
+- [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) -  (3 weeks ago)
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 month ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 month ago)
 - [ZiHao256/P2P-Based_Document_Sharing_System](https://github.com/ZiHao256/P2P-Based_Document_Sharing_System) -  (7 months ago)
@@ -74,11 +74,11 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [ZiHao256/AppFlowy](https://github.com/ZiHao256/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (1 day ago)
-- [ZiHao256/awesome-database-learning-zihao](https://github.com/ZiHao256/awesome-database-learning-zihao) - A list of learning materials to understand databases internals (2 days ago)
-- [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (5 days ago)
-- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (5 days ago)
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (5 days ago)
+- [ZiHao256/AppFlowy](https://github.com/ZiHao256/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (2 days ago)
+- [ZiHao256/awesome-database-learning-zihao](https://github.com/ZiHao256/awesome-database-learning-zihao) - A list of learning materials to understand databases internals (3 days ago)
+- [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (6 days ago)
+- [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (6 days ago)
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (6 days ago)
 </details>
 
 <details>
