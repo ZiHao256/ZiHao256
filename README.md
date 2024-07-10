@@ -41,7 +41,7 @@
 - [PROJECT #4: CONCURRENCY CONTROL](https://zihao256.github.io/p/10f62ef4.html) (1 month ago)
 - [Project #3: Query Execution](https://zihao256.github.io/p/c186cbfd.html) (1 month ago)
 - [rustlings](https://zihao256.github.io/p/2acafc61.html) (7 months ago)
-- [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (7 months ago)
+- [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (8 months ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (8 months ago)
 </details>
 
@@ -74,8 +74,8 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [ZiHao256/AppFlowy](https://github.com/ZiHao256/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (4 days ago)
-- [ZiHao256/awesome-database-learning-zihao](https://github.com/ZiHao256/awesome-database-learning-zihao) - A list of learning materials to understand databases internals (5 days ago)
+- [ZiHao256/AppFlowy](https://github.com/ZiHao256/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (5 days ago)
+- [ZiHao256/awesome-database-learning-zihao](https://github.com/ZiHao256/awesome-database-learning-zihao) - A list of learning materials to understand databases internals (6 days ago)
 - [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (1 week ago)
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (1 week ago)
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (1 week ago)
