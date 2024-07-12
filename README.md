@@ -74,7 +74,7 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [ZiHao256/AppFlowy](https://github.com/ZiHao256/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (6 days ago)
+- [ZiHao256/AppFlowy](https://github.com/ZiHao256/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (1 week ago)
 - [ZiHao256/awesome-database-learning-zihao](https://github.com/ZiHao256/awesome-database-learning-zihao) - A list of learning materials to understand databases internals (1 week ago)
 - [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (1 week ago)
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (1 week ago)
