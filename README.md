@@ -74,11 +74,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [alist-org/docs](https://github.com/alist-org/docs) - 📄 Documentation for alist v3: http://github.com/alist-org/alist (today)
 - [ZiHao256/AppFlowy](https://github.com/ZiHao256/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (1 week ago)
 - [ZiHao256/awesome-database-learning-zihao](https://github.com/ZiHao256/awesome-database-learning-zihao) - A list of learning materials to understand databases internals (1 week ago)
 - [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (2 weeks ago)
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file (2 weeks ago)
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (2 weeks ago)
 </details>
 
 <details>
