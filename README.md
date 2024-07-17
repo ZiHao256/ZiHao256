@@ -74,11 +74,11 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [syt2/zotero-addons](https://github.com/syt2/zotero-addons) - Install add-ons directly in Zotero | Zotero插件市场 (today)
-- [alist-org/docs](https://github.com/alist-org/docs) - 📄 Documentation for alist v3: http://github.com/alist-org/alist (today)
+- [revezone/revezone](https://github.com/revezone/revezone) - A lightweight local-first graphic-centric  productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like note. 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tldraw 白板和类 Notion 笔记。 (1 day ago)
+- [syt2/zotero-addons](https://github.com/syt2/zotero-addons) - Install add-ons directly in Zotero | Zotero插件市场 (1 day ago)
+- [alist-org/docs](https://github.com/alist-org/docs) - 📄 Documentation for alist v3: http://github.com/alist-org/alist (1 day ago)
 - [ZiHao256/AppFlowy](https://github.com/ZiHao256/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. (1 week ago)
 - [ZiHao256/awesome-database-learning-zihao](https://github.com/ZiHao256/awesome-database-learning-zihao) - A list of learning materials to understand databases internals (1 week ago)
-- [TonyCrane/slide-template](https://github.com/TonyCrane/slide-template) - TonyCrane&#39;s slide template for reveal-md (2 weeks ago)
 </details>
 
 <details>
