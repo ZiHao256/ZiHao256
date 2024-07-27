@@ -86,7 +86,7 @@
 🔨 Check out my recent pull requests
 </summary>
 
-- [Fix comment typo in nlj_as_hash_join.cpp](https://github.com/cmu-db/bustub/pull/714) on [cmu-db/bustub](https://github.com/cmu-db/bustub) (2 months ago)
+- [Fix comment typo in nlj_as_hash_join.cpp](https://github.com/cmu-db/bustub/pull/714) on [cmu-db/bustub](https://github.com/cmu-db/bustub) (3 months ago)
 - [Fix typo in Chapter 15 Section 05. ](https://github.com/rust-lang/book/pull/3772) on [rust-lang/book](https://github.com/rust-lang/book) (8 months ago)
 - [Fix the typo in the class TASK declaration in task.h: TASKS -&gt; TASK](https://github.com/yongwen/columbia/pull/3) on [yongwen/columbia](https://github.com/yongwen/columbia) (1 year ago)
 - [Login](https://github.com/ZiHao256/vue_travelbooking/pull/1) on [ZiHao256/vue_travelbooking](https://github.com/ZiHao256/vue_travelbooking) (2 years ago)
