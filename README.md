@@ -74,7 +74,7 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault (2 days ago)
+- [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault (3 days ago)
 - [702573N/Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable timeline (2 weeks ago)
 - [702573N/Obsidian-Tasks-Calendar](https://github.com/702573N/Obsidian-Tasks-Calendar) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable calendar with a wide variety of views (2 weeks ago)
 - [revezone/revezone](https://github.com/revezone/revezone) - A lightweight local-first graphic-centric  productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like note. 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tldraw 白板和类 Notion 笔记。 (2 weeks ago)
