@@ -50,7 +50,7 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (3 days ago)
+- [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (4 days ago)
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (3 weeks ago)
 - [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) -  (1 month ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (2 months ago)
@@ -77,8 +77,8 @@
 - [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault (1 week ago)
 - [702573N/Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable timeline (3 weeks ago)
 - [702573N/Obsidian-Tasks-Calendar](https://github.com/702573N/Obsidian-Tasks-Calendar) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable calendar with a wide variety of views (3 weeks ago)
-- [revezone/revezone](https://github.com/revezone/revezone) - A lightweight local-first graphic-centric  productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like note. 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tldraw 白板和类 Notion 笔记。 (3 weeks ago)
-- [syt2/zotero-addons](https://github.com/syt2/zotero-addons) - Install add-ons directly in Zotero | Zotero Add-on Market  | Zotero插件市场 (3 weeks ago)
+- [revezone/revezone](https://github.com/revezone/revezone) - A lightweight local-first graphic-centric  productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like note. 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tldraw 白板和类 Notion 笔记。 (4 weeks ago)
+- [syt2/zotero-addons](https://github.com/syt2/zotero-addons) - Install add-ons directly in Zotero | Zotero Add-on Market  | Zotero插件市场 (4 weeks ago)
 </details>
 
 <details>
