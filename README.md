@@ -1,18 +1,6 @@
 > Why be afraid of the infinity of the truth, joy resides in every step of growth.
 
-🧑‍🎓 First-year master student at [Xidian University](https://www.xidian.edu.cn/)
 
-💻 Interested in DB
-
-🏠 Homepage : &nbsp;&nbsp;&nbsp;&nbsp;[Homepage](https://zihao256.github.io/ZiHao256.com/)
-
-🖊️ Blog : &nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;[ZiHao's Blog](https://zihao256.github.io/)
-
-👤 About : &nbsp;&nbsp;&ensp;&emsp;&emsp;[About me](https://zihao256.github.io/about/)
-
-📄 CV : &nbsp;&emsp;&emsp;&emsp;&emsp;[Curriculum Vitae(Updating)](https://zihao256.github.io/ZiHao256.com/Awesome_CV.pdf)
-
-📮 Email : &emsp;&emsp;&emsp;[zihao626@gmail.com](mailto:zihao626@gmail.com)
 
 ---
 <details>
@@ -86,9 +74,9 @@
 🔨 Check out my recent pull requests
 </summary>
 
+- [fix(route): example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16536) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (today)
 - [feat(route): add route for Engineering blogs](https://github.com/DIYgod/RSSHub/pull/16529) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (2 days ago)
 - [feat(route): add route for Engineering blogs](https://github.com/DIYgod/RSSHub/pull/16528) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (2 days ago)
 - [Fix comment typo in nlj_as_hash_join.cpp](https://github.com/cmu-db/bustub/pull/714) on [cmu-db/bustub](https://github.com/cmu-db/bustub) (4 months ago)
 - [Fix typo in Chapter 15 Section 05. ](https://github.com/rust-lang/book/pull/3772) on [rust-lang/book](https://github.com/rust-lang/book) (9 months ago)
-- [Fix the typo in the class TASK declaration in task.h: TASKS -&gt; TASK](https://github.com/yongwen/columbia/pull/3) on [yongwen/columbia](https://github.com/yongwen/columbia) (1 year ago)
 </details>
