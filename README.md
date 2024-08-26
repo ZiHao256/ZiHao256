@@ -74,9 +74,9 @@
 🔨 Check out my recent pull requests
 </summary>
 
+- [feat(route): add route for cs.xidian.edu.cn &amp;&amp; fix url of namespace](https://github.com/DIYgod/RSSHub/pull/16547) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (today)
+- [fix(route): example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16546) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (today)
+- [feat(route): add route for gr.xidian.edu.cn](https://github.com/DIYgod/RSSHub/pull/16538) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (today)
 - [fix(route): example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16536) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (today)
 - [feat(route): add route for Engineering blogs](https://github.com/DIYgod/RSSHub/pull/16529) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (2 days ago)
-- [feat(route): add route for Engineering blogs](https://github.com/DIYgod/RSSHub/pull/16528) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (2 days ago)
-- [Fix comment typo in nlj_as_hash_join.cpp](https://github.com/cmu-db/bustub/pull/714) on [cmu-db/bustub](https://github.com/cmu-db/bustub) (4 months ago)
-- [Fix typo in Chapter 15 Section 05. ](https://github.com/rust-lang/book/pull/3772) on [rust-lang/book](https://github.com/rust-lang/book) (9 months ago)
 </details>
