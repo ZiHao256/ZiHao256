@@ -39,7 +39,7 @@
 </summary>
 
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (today)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 day ago)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (2 days ago)
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (2 weeks ago)
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 month ago)
 - [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) -  (2 months ago)
@@ -74,9 +74,9 @@
 🔨 Check out my recent pull requests
 </summary>
 
-- [fix: update urls for xidian](https://github.com/DIYgod/RSSHub/pull/16551) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (1 day ago)
-- [feat(route): add route for cs.xidian.edu.cn &amp;&amp; fix url of namespace](https://github.com/DIYgod/RSSHub/pull/16547) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (2 days ago)
-- [fix: update example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16546) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (2 days ago)
-- [feat(route): add route for gr.xidian.edu.cn](https://github.com/DIYgod/RSSHub/pull/16538) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (2 days ago)
-- [fix(route): example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16536) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (2 days ago)
+- [fix: update urls for xidian](https://github.com/DIYgod/RSSHub/pull/16551) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (2 days ago)
+- [feat(route): add route for cs.xidian.edu.cn &amp;&amp; fix url of namespace](https://github.com/DIYgod/RSSHub/pull/16547) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (3 days ago)
+- [fix: update example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16546) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (3 days ago)
+- [feat(route): add route for gr.xidian.edu.cn](https://github.com/DIYgod/RSSHub/pull/16538) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (3 days ago)
+- [fix(route): example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16536) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (3 days ago)
 </details>
