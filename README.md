@@ -38,9 +38,9 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (today)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (2 days ago)
-- [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (2 weeks ago)
+- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 day ago)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (3 days ago)
+- [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (3 weeks ago)
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 month ago)
 - [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) -  (2 months ago)
 </details>
@@ -62,7 +62,7 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault (4 weeks ago)
+- [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault (1 month ago)
 - [702573N/Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable timeline (1 month ago)
 - [702573N/Obsidian-Tasks-Calendar](https://github.com/702573N/Obsidian-Tasks-Calendar) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable calendar with a wide variety of views (1 month ago)
 - [revezone/revezone](https://github.com/revezone/revezone) - A lightweight local-first graphic-centric  productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like note. 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tldraw 白板和类 Notion 笔记。 (1 month ago)
@@ -74,9 +74,9 @@
 🔨 Check out my recent pull requests
 </summary>
 
-- [fix: update urls for xidian](https://github.com/DIYgod/RSSHub/pull/16551) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (2 days ago)
-- [feat(route): add route for cs.xidian.edu.cn &amp;&amp; fix url of namespace](https://github.com/DIYgod/RSSHub/pull/16547) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (3 days ago)
-- [fix: update example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16546) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (3 days ago)
-- [feat(route): add route for gr.xidian.edu.cn](https://github.com/DIYgod/RSSHub/pull/16538) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (3 days ago)
-- [fix(route): example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16536) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (3 days ago)
+- [fix: update urls for xidian](https://github.com/DIYgod/RSSHub/pull/16551) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (3 days ago)
+- [feat(route): add route for cs.xidian.edu.cn &amp;&amp; fix url of namespace](https://github.com/DIYgod/RSSHub/pull/16547) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (4 days ago)
+- [fix: update example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16546) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (4 days ago)
+- [feat(route): add route for gr.xidian.edu.cn](https://github.com/DIYgod/RSSHub/pull/16538) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (4 days ago)
+- [fix(route): example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16536) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (4 days ago)
 </details>
