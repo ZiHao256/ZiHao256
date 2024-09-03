@@ -38,9 +38,9 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (today)
-- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (4 days ago)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (6 days ago)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 day ago)
+- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (5 days ago)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 week ago)
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (3 weeks ago)
 - [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) -  (2 months ago)
 </details>
@@ -62,8 +62,8 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (2 days ago)
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line. (2 days ago)
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (3 days ago)
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line. (3 days ago)
 - [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault (1 month ago)
 - [702573N/Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable timeline (1 month ago)
 - [702573N/Obsidian-Tasks-Calendar](https://github.com/702573N/Obsidian-Tasks-Calendar) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable calendar with a wide variety of views (1 month ago)
@@ -74,7 +74,7 @@
 🔨 Check out my recent pull requests
 </summary>
 
-- [fix: update urls for xidian](https://github.com/DIYgod/RSSHub/pull/16551) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (6 days ago)
+- [fix: update urls for xidian](https://github.com/DIYgod/RSSHub/pull/16551) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (1 week ago)
 - [feat(route): add route for cs.xidian.edu.cn &amp;&amp; fix url of namespace](https://github.com/DIYgod/RSSHub/pull/16547) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (1 week ago)
 - [fix: update example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16546) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (1 week ago)
 - [feat(route): add route for gr.xidian.edu.cn](https://github.com/DIYgod/RSSHub/pull/16538) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (1 week ago)
