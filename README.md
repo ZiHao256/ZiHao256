@@ -42,7 +42,7 @@
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (2 weeks ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (2 weeks ago)
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (1 month ago)
-- [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) -  (2 months ago)
+- [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) -  (3 months ago)
 </details>
 
 <details>
@@ -62,8 +62,8 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (1 week ago)
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software (1 week ago)
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (2 weeks ago)
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software (2 weeks ago)
 - [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault (1 month ago)
 - [702573N/Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable timeline (1 month ago)
 - [702573N/Obsidian-Tasks-Calendar](https://github.com/702573N/Obsidian-Tasks-Calendar) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable calendar with a wide variety of views (1 month ago)
