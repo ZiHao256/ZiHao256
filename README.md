@@ -38,7 +38,7 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (3 weeks ago)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (4 weeks ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 month ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 month ago)
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (1 month ago)
@@ -62,9 +62,9 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [windingwind/zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) - Customize your Zotero workflow. (3 days ago)
-- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (4 weeks ago)
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software (4 weeks ago)
+- [windingwind/zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) - Customize your Zotero workflow. (4 days ago)
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (1 month ago)
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software (1 month ago)
 - [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault (2 months ago)
 - [702573N/Obsidian-Tasks-Timeline](https://github.com/702573N/Obsidian-Tasks-Timeline) - A custom view build with Obsidian-Dataview to display tasks from Obsidian-Tasks and from your daily notes in a highly customisable timeline (2 months ago)
 </details>
