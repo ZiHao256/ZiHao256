@@ -38,7 +38,7 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (5 days ago)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (6 days ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (2 months ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (2 months ago)
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (2 months ago)
@@ -62,8 +62,8 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.  (today)
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser. (4 days ago)
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.  (1 day ago)
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser. (5 days ago)
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。 (3 weeks ago)
 - [windingwind/zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) - Customize your Zotero workflow. (1 month ago)
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (1 month ago)
