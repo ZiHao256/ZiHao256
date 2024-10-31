@@ -62,8 +62,8 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.  (2 days ago)
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser. (6 days ago)
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.  (3 days ago)
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser. (1 week ago)
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。 (3 weeks ago)
 - [windingwind/zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) - Customize your Zotero workflow. (1 month ago)
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (2 months ago)
