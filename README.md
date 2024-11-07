@@ -29,7 +29,7 @@
 - [PROJECT #4: CONCURRENCY CONTROL](https://zihao256.github.io/p/10f62ef4.html) (5 months ago)
 - [Project #3: Query Execution](https://zihao256.github.io/p/c186cbfd.html) (5 months ago)
 - [rustlings](https://zihao256.github.io/p/2acafc61.html) (11 months ago)
-- [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (11 months ago)
+- [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (1 year ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (1 year ago)
 </details>
 
@@ -41,7 +41,7 @@
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (2 weeks ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (2 months ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (2 months ago)
-- [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (2 months ago)
+- [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (3 months ago)
 - [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) -  (4 months ago)
 </details>
 
@@ -63,7 +63,7 @@
 </summary>
 
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.  (1 week ago)
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser. (1 week ago)
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser. (2 weeks ago)
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。 (1 month ago)
 - [windingwind/zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) - Customize your Zotero workflow. (1 month ago)
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (2 months ago)
