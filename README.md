@@ -26,8 +26,8 @@
 📜 Check out my recent blog posts
 </summary>
 
-- [PROJECT #4: CONCURRENCY CONTROL](https://zihao256.github.io/p/10f62ef4.html) (5 months ago)
-- [Project #3: Query Execution](https://zihao256.github.io/p/c186cbfd.html) (5 months ago)
+- [PROJECT #4: CONCURRENCY CONTROL](https://zihao256.github.io/p/10f62ef4.html) (6 months ago)
+- [Project #3: Query Execution](https://zihao256.github.io/p/c186cbfd.html) (6 months ago)
 - [rustlings](https://zihao256.github.io/p/2acafc61.html) (11 months ago)
 - [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (1 year ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (1 year ago)
@@ -62,7 +62,7 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide) - A comprehensive guide for beginners in the field of data management and artificial intelligence. (3 days ago)
+- [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide) - A comprehensive guide for beginners in the field of data management and artificial intelligence. (4 days ago)
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.  (2 weeks ago)
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser. (2 weeks ago)
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。 (1 month ago)
