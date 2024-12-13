@@ -38,11 +38,11 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
+- [RubbiP/calcite-with-quickpick](https://github.com/RubbiP/calcite-with-quickpick) -  (today)
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (2 weeks ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (3 months ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (3 months ago)
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (4 months ago)
-- [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) -  (6 months ago)
 </details>
 
 <details>
