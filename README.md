@@ -62,11 +62,11 @@
 ⭐ Check out my recent stars
 </summary>
 
+- [JunyaoHu/academic-project-page-template-vue](https://github.com/JunyaoHu/academic-project-page-template-vue) - A vue-based project page template for academic papers. (in development) (today)
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (1 week ago)
 - [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide) - A comprehensive guide for beginners in the field of data management and artificial intelligence. (1 month ago)
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.  (1 month ago)
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox (2 months ago)
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。 (2 months ago)
 </details>
 
 <details>
