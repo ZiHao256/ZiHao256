@@ -63,7 +63,7 @@
 </summary>
 
 - [JunyaoHu/academic-project-page-template-vue](https://github.com/JunyaoHu/academic-project-page-template-vue) - A vue-based project page template for academic papers. (in development) https://junyaohu.github.io/academic-project-page-template-vue (1 week ago)
-- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (2 weeks ago)
+- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (3 weeks ago)
 - [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide) - A comprehensive guide for beginners in the field of data management and artificial intelligence. (1 month ago)
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.  (2 months ago)
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox (2 months ago)
