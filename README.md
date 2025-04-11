@@ -26,8 +26,8 @@
 📜 Check out my recent blog posts
 </summary>
 
-- [PROJECT #4: CONCURRENCY CONTROL](https://zihao256.github.io/p/10f62ef4.html) (10 months ago)
-- [Project #3: Query Execution](https://zihao256.github.io/p/c186cbfd.html) (10 months ago)
+- [PROJECT #4: CONCURRENCY CONTROL](https://zihao256.github.io/p/10f62ef4.html) (11 months ago)
+- [Project #3: Query Execution](https://zihao256.github.io/p/c186cbfd.html) (11 months ago)
 - [rustlings](https://zihao256.github.io/p/2acafc61.html) (1 year ago)
 - [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (1 year ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (1 year ago)
@@ -62,8 +62,8 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor (4 days ago)
-- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You&#39;ve reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. (4 days ago)
+- [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor (5 days ago)
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You&#39;ve reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. (5 days ago)
 - [JunyaoHu/academic-project-page-template-vue](https://github.com/JunyaoHu/academic-project-page-template-vue) - A vue-based project page template for academic papers. (in development) https://junyaohu.github.io/academic-project-page-template-vue (3 months ago)
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (3 months ago)
 - [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide) - A comprehensive guide for beginners in the field of data management and artificial intelligence. (5 months ago)
