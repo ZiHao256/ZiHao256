@@ -40,7 +40,7 @@
 
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (2 months ago)
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (3 months ago)
-- [RubbiP/calcite-with-quickpick](https://github.com/RubbiP/calcite-with-quickpick) -  (3 months ago)
+- [RubbiP/calcite-with-quickpick](https://github.com/RubbiP/calcite-with-quickpick) -  (4 months ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (7 months ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (7 months ago)
 </details>
