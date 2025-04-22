@@ -30,7 +30,7 @@
 - [Project #3: Query Execution](https://zihao256.github.io/p/c186cbfd.html) (11 months ago)
 - [rustlings](https://zihao256.github.io/p/2acafc61.html) (1 year ago)
 - [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (1 year ago)
-- [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (1 year ago)
+- [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (2 years ago)
 </details>
 
 <details>
@@ -38,7 +38,7 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (2 months ago)
+- [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (3 months ago)
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (3 months ago)
 - [RubbiP/calcite-with-quickpick](https://github.com/RubbiP/calcite-with-quickpick) -  (4 months ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (7 months ago)
