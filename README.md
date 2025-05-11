@@ -26,8 +26,8 @@
 📜 Check out my recent blog posts
 </summary>
 
-- [PROJECT #4: CONCURRENCY CONTROL](https://zihao256.github.io/p/10f62ef4.html) (11 months ago)
-- [Project #3: Query Execution](https://zihao256.github.io/p/c186cbfd.html) (11 months ago)
+- [PROJECT #4: CONCURRENCY CONTROL](https://zihao256.github.io/p/10f62ef4.html) (1 year ago)
+- [Project #3: Query Execution](https://zihao256.github.io/p/c186cbfd.html) (1 year ago)
 - [rustlings](https://zihao256.github.io/p/2acafc61.html) (1 year ago)
 - [基于Actix-Web(Rust)和Vue的Web开发记录](https://zihao256.github.io/p/d028ccc3.html) (2 years ago)
 - [Project#2: Extendible Hash Index](https://zihao256.github.io/p/517dd8ea.html) (2 years ago)
