@@ -38,11 +38,11 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (today)
+- [ZiHao256/TradingBot-release](https://github.com/ZiHao256/TradingBot-release) -  (today)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 day ago)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (6 months ago)
 - [RubbiP/calcite-with-quickpick](https://github.com/RubbiP/calcite-with-quickpick) -  (7 months ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (11 months ago)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (11 months ago)
 </details>
 
 <details>
@@ -50,11 +50,11 @@
 🌱 Check out my recent projects
 </summary>
 
+- [ZiHao256/TradingBot-release](https://github.com/ZiHao256/TradingBot-release) - 
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) - 
 - [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) - 
 - [ZiHao256/P2P-Based_Document_Sharing_System](https://github.com/ZiHao256/P2P-Based_Document_Sharing_System) - 
 - [ZiHao256/BookManagementSystem](https://github.com/ZiHao256/BookManagementSystem) - XDU 3rd_term 程序设计实训
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片
 </details>
 
 <details>
