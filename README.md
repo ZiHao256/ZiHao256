@@ -38,8 +38,8 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
-- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (today)
-- [ZiHao256/TradingBot-release](https://github.com/ZiHao256/TradingBot-release) -  (2 days ago)
+- [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 day ago)
+- [ZiHao256/TradingBot-release](https://github.com/ZiHao256/TradingBot-release) -  (3 days ago)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (6 months ago)
 - [RubbiP/calcite-with-quickpick](https://github.com/RubbiP/calcite-with-quickpick) -  (7 months ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (11 months ago)
@@ -62,8 +62,8 @@
 ⭐ Check out my recent stars
 </summary>
 
-- [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor (3 months ago)
-- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You&#39;ve reached your trial request limit.  /  Too many free trial accounts used on this machine. (3 months ago)
+- [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor (4 months ago)
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You&#39;ve reached your trial request limit.  /  Too many free trial accounts used on this machine. (4 months ago)
 - [JunyaoHu/academic-project-page-template-vue](https://github.com/JunyaoHu/academic-project-page-template-vue) - A vue-based project page template for academic papers. (in development) https://junyaohu.github.io/academic-project-page-template-vue (7 months ago)
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (7 months ago)
 - [PKU-DAIR/Starter-Guide](https://github.com/PKU-DAIR/Starter-Guide) - A comprehensive guide for beginners in the field of data management and artificial intelligence. (8 months ago)
