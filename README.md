@@ -39,7 +39,7 @@
 </summary>
 
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 week ago)
-- [ZiHao256/TradingBot-release](https://github.com/ZiHao256/TradingBot-release) -  (2 weeks ago)
+- [ZiHao256/TradingBot-release](https://github.com/ZiHao256/TradingBot-release) -  (3 weeks ago)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (7 months ago)
 - [RubbiP/calcite-with-quickpick](https://github.com/RubbiP/calcite-with-quickpick) -  (8 months ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (11 months ago)
@@ -74,7 +74,7 @@
 🔨 Check out my recent pull requests
 </summary>
 
-- [fix: update urls for xidian](https://github.com/DIYgod/RSSHub/pull/16551) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (11 months ago)
+- [fix: update urls for xidian](https://github.com/DIYgod/RSSHub/pull/16551) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (1 year ago)
 - [feat(route): add route for cs.xidian.edu.cn &amp;&amp; fix url of namespace](https://github.com/DIYgod/RSSHub/pull/16547) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (1 year ago)
 - [fix: update example of Engineering Blogs in RSSHub docs](https://github.com/DIYgod/RSSHub/pull/16546) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (1 year ago)
 - [feat(route): add route for gr.xidian.edu.cn](https://github.com/DIYgod/RSSHub/pull/16538) on [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) (1 year ago)
