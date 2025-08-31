@@ -39,7 +39,7 @@
 </summary>
 
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (2 weeks ago)
-- [ZiHao256/TradingBot-release](https://github.com/ZiHao256/TradingBot-release) -  (4 weeks ago)
+- [ZiHao256/TradingBot-release](https://github.com/ZiHao256/TradingBot-release) -  (1 month ago)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (7 months ago)
 - [RubbiP/calcite-with-quickpick](https://github.com/RubbiP/calcite-with-quickpick) -  (8 months ago)
 - [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 year ago)
