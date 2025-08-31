@@ -42,7 +42,6 @@
 - [ZiHao256/TradingBot-release](https://github.com/ZiHao256/TradingBot-release) -  (1 month ago)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (7 months ago)
 - [RubbiP/calcite-with-quickpick](https://github.com/RubbiP/calcite-with-quickpick) -  (8 months ago)
-- [ZiHao256/ZiHao256.github.io](https://github.com/ZiHao256/ZiHao256.github.io) -  (1 year ago)
 </details>
 
 <details>
