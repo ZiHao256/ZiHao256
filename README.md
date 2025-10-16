@@ -38,6 +38,7 @@
 👷 Check out what I'm currently contributing to
 </summary>
 
+- [ZiHao256/cli](https://github.com/ZiHao256/cli) -  (today)
 - [ZiHao256/Gallery](https://github.com/ZiHao256/Gallery) - 图床，存储博客上的图片 (1 month ago)
 - [ZiHao256/TradingBot-release](https://github.com/ZiHao256/TradingBot-release) -  (2 months ago)
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) -  (8 months ago)
@@ -49,11 +50,11 @@
 🌱 Check out my recent projects
 </summary>
 
+- [ZiHao256/cli](https://github.com/ZiHao256/cli) - 
 - [ZiHao256/TradingBot-release](https://github.com/ZiHao256/TradingBot-release) - 
 - [ZiHao256/InfoPlan](https://github.com/ZiHao256/InfoPlan) - 
 - [ZiHao256/adaptive-balsa](https://github.com/ZiHao256/adaptive-balsa) - 
 - [ZiHao256/P2P-Based_Document_Sharing_System](https://github.com/ZiHao256/P2P-Based_Document_Sharing_System) - 
-- [ZiHao256/BookManagementSystem](https://github.com/ZiHao256/BookManagementSystem) - XDU 3rd_term 程序设计实训
 </details>
 
 <details>
